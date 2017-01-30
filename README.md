@@ -1,3 +1,5 @@
 # hello-world
-Practice repository  
-My name is Austin. I like japanese food. 
+ 
+My name is Austin. I like Japanese food.
+Included are sushi, tempura, and terriyaki salmon. 
+ 
