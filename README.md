@@ -10,4 +10,4 @@ Check the ones I like.
 - [ ] salmon eggs
  
  
-Format: ![Alt Text](http://www.harusushi.com/wp-content/uploads/2015/06/sushi_and_sashimi_for_two.jpg)
+Image: ![Alt Text](http://www.harusushi.com/wp-content/uploads/2015/06/sushi_and_sashimi_for_two.jpg)
